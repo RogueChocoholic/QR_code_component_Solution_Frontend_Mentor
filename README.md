@@ -58,8 +58,6 @@ This is a solution to the [QR code component challenge on Frontend Mentor]
   box-shadow: 1px 1px 50px #00000027;
 }
 ```
-
 ## Author
-
 - Frontend Mentor - [@RogueChocoholic](https://www.frontendmentor.io/profile/RogueChocoholic)
 
